@@ -33,4 +33,9 @@
 + (NSArray*)fetchAllContacts:(FMDatabase*)database;
 + (Contact*)fetchContactByID:(NSString*)cID dataBase:(FMDatabase*)database;
 
+- (BOOL)insert:(FMDatabase*)database;
+- (BOOL)update:(FMDatabase*)database;
+- (BOOL)delete:(FMDatabase*)database;
+
+
 @end

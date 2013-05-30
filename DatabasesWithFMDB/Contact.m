@@ -197,5 +197,48 @@
     return fetchedContact;
 }
 
+#pragma mark insert/update methods
+
+- (BOOL)insert:(FMDatabase*)database {
+    BOOL inserted = NO;
+    
+    // Get the query string
+    NSString *query = [self insertQuery];
+    
+    // Run the query
+    inserted = [self runDMLQuery:query database:database];
+    
+    // Return result
+    return inserted;
+}
+
+- (BOOL)update:(FMDatabase*)database {
+    BOOL updated = NO;
+    
+    // Get the query string
+    NSString *query = [self updateQuery];
+    
+    // Run the query
+    updated = [self runDMLQuery:query database:database];
+    
+    // Return result
+    return updated;
+}
+
+#pragma mark delete method
+
+- (BOOL)delete:(FMDatabase*)database {
+    BOOL deleted = NO;
+    
+    // Get the query string
+    NSString *query = [self deleteQuery];
+    
+    // Run the query
+    deleted = [self runDMLQuery:query database:database];
+    
+    // Return result
+    return deleted;
+}
+
     
 @end
