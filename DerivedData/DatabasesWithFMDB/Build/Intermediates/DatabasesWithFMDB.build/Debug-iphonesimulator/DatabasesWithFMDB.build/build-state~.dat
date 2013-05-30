@@ -1,0 +1,315 @@
+TDatabasesWithFMDB
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Info.plist" DatabasesWithFMDB/DatabasesWithFMDB-Info.plist
+cProcessPCH "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/PrecompiledHeaders/DatabasesWithFMDB-Prefix-fqfetupfxtxskfaezhvzbalfhtto/DatabasesWithFMDB-Prefix.pch.pth" DatabasesWithFMDB/DatabasesWithFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/main.o "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/AppDelegate.o "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/ViewController.o "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/DatabasesWithFMDB" normal i386
+cGenerateDSYMFile "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app.dSYM" "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/DatabasesWithFMDB"
+cCopyStringsFile "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/en.lproj/InfoPlist.strings" DatabasesWithFMDB/en.lproj/InfoPlist.strings
+cCpResource DatabasesWithFMDB/Default@2x.png DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default@2x.png
+cCpResource DatabasesWithFMDB/Default.png DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default.png
+cCpResource DatabasesWithFMDB/Default-568h@2x.png DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default-568h@2x.png
+cCompileStoryboard "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/en.lproj/MainStoryboard.storyboard"
+cTouch "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk
+c0000000050EDEAFB0000000000000110
+t1357769467
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000515EE8080000000000228FE0
+t1365174280
+s2265056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000515EE80900000000003DDFA0
+t1365174281
+s4054944
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c00000000515EE80900000000000015F7
+t1365174281
+s5623
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c00000000515EE80C0000000000000E8D
+t1365174284
+s3725
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000515EE80E0000000000AB6230
+t1365174286
+s11231792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk/usr/include/Availability.h
+c00000000515EE8170000000000001B73
+t1365174295
+s7027
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/AppDelegate.m
+c00000000519B83B000000000000007EB
+t1369146288
+s2027
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/DatabasesWithFMDB-Prefix.pch
+c00000000519B83B00000000000000151
+t1369146288
+s337
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/Default-568h@2x.png
+c000000005112E13A00000000000048A2
+t1360191802
+s18594
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/Default.png
+c000000005112E13A000000000000198C
+t1360191802
+s6540
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/Default@2x.png
+c000000005112E13A0000000000003EEB
+t1360191802
+s16107
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/ViewController.m
+c00000000519B83B00000000000000201
+t1369146288
+s513
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/en.lproj/InfoPlist.strings
+c00000000519B83B0000000000000002D
+t1369146288
+s45
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/en.lproj/MainStoryboard.storyboard
+c00000000519B85090000000000000A1D
+t1369146633
+s2589
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/main.m
+c00000000519B83B00000000000000164
+t1369146288
+s356
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/DatabasesWithFMDB.LinkFileList
+c00000000519B850A0000000000000260
+t1369146634
+s608
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/ViewController.o
+t2
+s0
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/PrecompiledHeaders/DatabasesWithFMDB-Prefix-fqfetupfxtxskfaezhvzbalfhtto/DatabasesWithFMDB-Prefix.pch.pth
+t2
+s0
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app
+t2
+s0
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app.dSYM
+t2
+s0
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/DatabasesWithFMDB
+t2
+s0
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default-568h@2x.png
+t2
+s0
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default.png
+t2
+s0
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default@2x.png
+t2
+s0
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Info.plist
+t2
+s0
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/PkgInfo
+t2
+s0
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/en.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/en.lproj/MainStoryboard.storyboardc
+t2
+s0
+
+NDatabasesWithFMDB/DatabasesWithFMDB-Info.plist
+c00000000519B83B000000000000004D9
+t1369146288
+s1241
+
+CBuild AST from "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/AppDelegate.m"
+r0
+
+CBuild AST from "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/ViewController.m"
+r0
+
+CBuild AST from "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/main.m"
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies5913d389bc4bb741^cbdb798abc4bb741^---0#1#0#--18"Check dependencies36"D101D7E0-4967-4CF4-AEF9-7D369DEA4F7D-
+
+CCompileC DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/AppDelegate.o "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/AppDelegate.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390839441.783466
+e390839442.592151
+r1
+xCompileC
+xDerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/AppDelegate.o
+x/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/AppDelegate.m03b5c891bc4bb741^af969792bc4bb741^---0#0#0#-19%DVTDocumentLocation2@99"file://localhost/Users/acrittendon/iOS%20Projects/DatabasesWithFMDB/DatabasesWithFMDB/AppDelegate.m0000000000000000^4427"CompileC DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/AppDelegate.o DatabasesWithFMDB/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-generated-files.hmap" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-own-target-headers.hmap" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-all-target-headers.hmap" -iquote "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-project-headers.hmap" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DerivedSources/i386" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DerivedSources" "-F/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator" -include "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/PrecompiledHeaders/DatabasesWithFMDB-Prefix-fqfetupfxtxskfaezhvzbalfhtto/DatabasesWithFMDB-Prefix.pch" -MMD -MT dependencies -MF "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/AppDelegate.d" --serialize-diagnostics "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/AppDelegate.dia" -c "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/AppDelegate.m" -o "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/AppDelegate.o"36"0F8561F0-0363-4892-B110-3E99D01C19C9-
+
+CCompileC DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/ViewController.o "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/ViewController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390839441.784103
+e390839442.591016
+r1
+xCompileC
+xDerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/ViewController.o
+x/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/ViewController.m3cdec891bc4bb741^2b4c9792bc4bb741^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/acrittendon/iOS%20Projects/DatabasesWithFMDB/DatabasesWithFMDB/ViewController.m0000000000000000^4445"CompileC DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/ViewController.o DatabasesWithFMDB/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-generated-files.hmap" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-own-target-headers.hmap" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-all-target-headers.hmap" -iquote "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-project-headers.hmap" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DerivedSources/i386" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DerivedSources" "-F/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator" -include "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/PrecompiledHeaders/DatabasesWithFMDB-Prefix-fqfetupfxtxskfaezhvzbalfhtto/DatabasesWithFMDB-Prefix.pch" -MMD -MT dependencies -MF "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/ViewController.d" --serialize-diagnostics "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/ViewController.dia" -c "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/ViewController.m" -o "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/ViewController.o"36"AB10AA85-99C9-46AB-8098-3EFC667F00E9-
+
+CCompileC DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/main.o "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390839441.783454
+e390839442.565109
+r1
+xCompileC
+xDerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/main.o
+x/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection82"Compile /Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/main.m78b5c891bc4bb741^97aa9092bc4bb741^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/acrittendon/iOS%20Projects/DatabasesWithFMDB/DatabasesWithFMDB/main.m0000000000000000^4385"CompileC DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/main.o DatabasesWithFMDB/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-generated-files.hmap" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-own-target-headers.hmap" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-all-target-headers.hmap" -iquote "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-project-headers.hmap" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DerivedSources/i386" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DerivedSources" "-F/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator" -include "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/PrecompiledHeaders/DatabasesWithFMDB-Prefix-fqfetupfxtxskfaezhvzbalfhtto/DatabasesWithFMDB-Prefix.pch" -MMD -MT dependencies -MF "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/main.dia" -c "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/main.m" -o "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/main.o"36"E0807084-B0BC-4D4E-B5EE-D3CD9568BCE6-
+
+CCompileStoryboard "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/en.lproj/MainStoryboard.storyboard"
+s390839445.829898
+e390839454.873386
+r1
+xCompileStoryboard
+x/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/en.lproj/MainStoryboard.storyboard
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"CompileStoryboard DatabasesWithFMDB/en.lproj/MainStoryboard.storyboard2387d495bc4bb741^c2a1df9ebc4bb741^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/acrittendon/iOS%20Projects/DatabasesWithFMDB/DatabasesWithFMDB/en.lproj/MainStoryboard.storyboard0000000000000000^1052"CompileStoryboard DatabasesWithFMDB/en.lproj/MainStoryboard.storyboard    cd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB"    setenv IBSC_MINIMUM_COMPATIBILITY_VERSION 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/en.lproj/MainStoryboard.storyboardc" "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/en.lproj/MainStoryboard.storyboard" --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk36"1224B24F-CA1D-4CA7-87B8-D43210D70EB8-
+
+CCopyStringsFile "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/en.lproj/InfoPlist.strings" DatabasesWithFMDB/en.lproj/InfoPlist.strings
+s390839445.829533
+e390839445.996757
+r1
+xCopyStringsFile
+x/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/en.lproj/InfoPlist.strings
+xDatabasesWithFMDB/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection49"Copy DatabasesWithFMDB/en.lproj/InfoPlist.strings2b6ed495bc4bb741^562bff95bc4bb741^---0#0#0#-19%DVTDocumentLocation2@112"file://localhost/Users/acrittendon/iOS%20Projects/DatabasesWithFMDB/DatabasesWithFMDB/en.lproj/InfoPlist.strings0000000000000000^719"CopyStringsFile DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/en.lproj/InfoPlist.strings DatabasesWithFMDB/en.lproj/InfoPlist.strings    cd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/en.lproj" -- DatabasesWithFMDB/en.lproj/InfoPlist.strings36"3E30F208-B75F-433F-B7AD-F98C25DA5A58-
+
+CCpResource DatabasesWithFMDB/Default-568h@2x.png DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default-568h@2x.png
+s390839445.829892
+e390839445.995413
+r1
+xCpResource
+xDatabasesWithFMDB/Default-568h@2x.png
+xDerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default-568h@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Copy DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default-568h@2x.pngcb83d495bc4bb741^c8d3fe95bc4bb741^---0#0#0#-19%DVTDocumentLocation2@176"file://localhost/Users/acrittendon/iOS%20Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default-568h@2x.png000000000080d041^759"CpResource "DatabasesWithFMDB/Default-568h@2x.png" "DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default-568h@2x.png"    cd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/Default-568h@2x.png" "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app"36"FDEB5887-64D7-48BD-A1E5-41C25DE59617-
+
+CCpResource DatabasesWithFMDB/Default.png DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default.png
+s390839445.829547
+e390839445.963542
+r1
+xCpResource
+xDatabasesWithFMDB/Default.png
+xDerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection105"Copy DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default.png096ed495bc4bb741^acabf695bc4bb741^---0#0#0#-19%DVTDocumentLocation2@168"file://localhost/Users/acrittendon/iOS%20Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default.png000000000080d041^731"CpResource DatabasesWithFMDB/Default.png DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default.png    cd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/Default.png" "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app"36"37702D96-D1F4-4BE9-9BFE-B98C48958078-
+
+CCpResource DatabasesWithFMDB/Default@2x.png DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default@2x.png
+s390839445.829540
+e390839445.963804
+r1
+xCpResource
+xDatabasesWithFMDB/Default@2x.png
+xDerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default@2x.png
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection108"Copy DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default@2x.pnge36ed495bc4bb741^fdbbf695bc4bb741^---0#0#0#-19%DVTDocumentLocation2@171"file://localhost/Users/acrittendon/iOS%20Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default@2x.png000000000080d041^744"CpResource "DatabasesWithFMDB/Default@2x.png" "DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Default@2x.png"    cd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/Default@2x.png" "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app"36"CD70D6E5-A891-453F-9B80-8F863F80085D-
+
+CGenerateDSYMFile "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app.dSYM" "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/DatabasesWithFMDB"
+s390839445.500304
+e390839445.821381
+r1
+xGenerateDSYMFile
+x/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app.dSYM
+x/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/DatabasesWithFMDB
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection152"Generate /Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app.dSYM6c258095bc4bb741^f645d295bc4bb741^---0#0#0#-19%DVTDocumentLocation2@161"file://localhost/Users/acrittendon/iOS%20Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app.dSYM000000000080d041^880"GenerateDSYMFile DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app.dSYM DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/DatabasesWithFMDB    cd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/DatabasesWithFMDB" -o "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app.dSYM"36"0EE6C500-3ADC-4756-89B6-2FB9AAF5DB42-
+
+CLd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/DatabasesWithFMDB" normal i386
+s390839442.600199
+e390839445.476121
+r1
+xLd
+x/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/DatabasesWithFMDB
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection161"Link /Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/DatabasesWithFMDBbabc9992bc4bb741^cee27995bc4bb741^---0#0#0#--1482"Ld DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/DatabasesWithFMDB normal i386    cd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB"    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk "-L/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator" "-F/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator" -filelist "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/Objects-normal/i386/DatabasesWithFMDB.LinkFileList" -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=6.1 -framework UIKit -framework Foundation -framework CoreGraphics -o "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/DatabasesWithFMDB"36"4A77D00F-71E7-448D-A847-0769B14E575F-
+
+CProcessInfoPlistFile "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Info.plist" DatabasesWithFMDB/DatabasesWithFMDB-Info.plist
+s390839434.498320
+e390839434.728444
+r1
+xProcessInfoPlistFile
+x/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Info.plist
+xDatabasesWithFMDB/DatabasesWithFMDB-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection54"Process DatabasesWithFMDB/DatabasesWithFMDB-Info.plist16a27f8abc4bb741^637aba8abc4bb741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/acrittendon/iOS%20Projects/DatabasesWithFMDB/DatabasesWithFMDB/DatabasesWithFMDB-Info.plist0000000000000000^876"ProcessInfoPlistFile DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Info.plist DatabasesWithFMDB/DatabasesWithFMDB-Info.plist    cd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DatabasesWithFMDB/DatabasesWithFMDB-Info.plist -genpkginfo "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app/Info.plist"36"EACD97A3-79C0-4CCA-B1B1-6A5F178FB752-
+
+CProcessPCH "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/PrecompiledHeaders/DatabasesWithFMDB-Prefix-fqfetupfxtxskfaezhvzbalfhtto/DatabasesWithFMDB-Prefix.pch.pth" DatabasesWithFMDB/DatabasesWithFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s390839434.737162
+e390839441.776634
+r1
+xProcessPCH
+x/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/PrecompiledHeaders/DatabasesWithFMDB-Prefix-fqfetupfxtxskfaezhvzbalfhtto/DatabasesWithFMDB-Prefix.pch.pth
+xDatabasesWithFMDB/DatabasesWithFMDB-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Precompile DatabasesWithFMDB/DatabasesWithFMDB-Prefix.pch89d4bc8abc4bb741^c4d0c691bc4bb741^---0#0#0#-19%DVTDocumentLocation2@114"file://localhost/Users/acrittendon/iOS%20Projects/DatabasesWithFMDB/DatabasesWithFMDB/DatabasesWithFMDB-Prefix.pch0000000000000000^4257"ProcessPCH DerivedData/DatabasesWithFMDB/Build/Intermediates/PrecompiledHeaders/DatabasesWithFMDB-Prefix-fqfetupfxtxskfaezhvzbalfhtto/DatabasesWithFMDB-Prefix.pch.pth DatabasesWithFMDB/DatabasesWithFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB"    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wduplicate-method-match -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator6.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=6.1 -iquote "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-generated-files.hmap" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-own-target-headers.hmap" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-all-target-headers.hmap" -iquote "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DatabasesWithFMDB-project-headers.hmap" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DerivedSources/i386" "-I/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/DatabasesWithFMDB.build/Debug-iphonesimulator/DatabasesWithFMDB.build/DerivedSources" "-F/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator" --serialize-diagnostics "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/PrecompiledHeaders/DatabasesWithFMDB-Prefix-fqfetupfxtxskfaezhvzbalfhtto/DatabasesWithFMDB-Prefix.pch.dia" -c "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DatabasesWithFMDB/DatabasesWithFMDB-Prefix.pch" -o "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/PrecompiledHeaders/DatabasesWithFMDB-Prefix-fqfetupfxtxskfaezhvzbalfhtto/DatabasesWithFMDB-Prefix.pch.pth" -MMD -MT dependencies -MF "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Intermediates/PrecompiledHeaders/DatabasesWithFMDB-Prefix-fqfetupfxtxskfaezhvzbalfhtto/DatabasesWithFMDB-Prefix.pch.d"36"162D6865-FCF8-4FE6-808F-AEFAFED59264-
+
+CProcessPCH "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Index/PrecompiledHeaders/DatabasesWithFMDB-Prefix-bjqhvijaruhiznexwcdpqjftjgou_ast/DatabasesWithFMDB-Prefix.pch.pth" DatabasesWithFMDB/DatabasesWithFMDB-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CTouch "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app"
+s390839454.881153
+e390839455.076913
+r1
+xTouch
+x/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection144"Touch /Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app54a9e19ebc4bb741^4fb0139fbc4bb741^---0#0#0#--512"Touch DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app    cd "/Users/acrittendon/iOS Projects/DatabasesWithFMDB"    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/acrittendon/iOS Projects/DatabasesWithFMDB/DerivedData/DatabasesWithFMDB/Build/Products/Debug-iphonesimulator/DatabasesWithFMDB.app"36"20B0B5A2-0B5C-4070-BC0B-F493B9AE7597-
+
