@@ -29,6 +29,8 @@
 		88F4CDC2174BE9B0004956CC /* Contact.m in Sources */ = {isa = PBXBuildFile; fileRef = 88F4CDC1174BE9B0004956CC /* Contact.m */; };
 		88F4CDC4174C1234004956CC /* database.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = 88F4CDC3174C1234004956CC /* database.sqlite */; };
 		88F4CE15174D42BE004956CC /* AddEditContactViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 88F4CE14174D42BE004956CC /* AddEditContactViewController.m */; };
+		AF8E78951756D6FB0033CEAA /* Address.m in Sources */ = {isa = PBXBuildFile; fileRef = AF8E78941756D6FB0033CEAA /* Address.m */; };
+		AF8E78981756DFC20033CEAA /* DBObject.m in Sources */ = {isa = PBXBuildFile; fileRef = AF8E78971756DFC20033CEAA /* DBObject.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +70,10 @@
 		88F4CDC3174C1234004956CC /* database.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = database.sqlite; sourceTree = "<group>"; };
 		88F4CE13174D42BE004956CC /* AddEditContactViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddEditContactViewController.h; sourceTree = "<group>"; };
 		88F4CE14174D42BE004956CC /* AddEditContactViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddEditContactViewController.m; sourceTree = "<group>"; };
+		AF8E78931756D6FB0033CEAA /* Address.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Address.h; sourceTree = "<group>"; };
+		AF8E78941756D6FB0033CEAA /* Address.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Address.m; sourceTree = "<group>"; };
+		AF8E78961756DFC20033CEAA /* DBObject.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBObject.h; sourceTree = "<group>"; };
+		AF8E78971756DFC20033CEAA /* DBObject.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBObject.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -131,6 +137,10 @@
 				88F4CDBE174BE995004956CC /* DataManager.m */,
 				88F4CDC0174BE9B0004956CC /* Contact.h */,
 				88F4CDC1174BE9B0004956CC /* Contact.m */,
+				AF8E78931756D6FB0033CEAA /* Address.h */,
+				AF8E78941756D6FB0033CEAA /* Address.m */,
+				AF8E78961756DFC20033CEAA /* DBObject.h */,
+				AF8E78971756DFC20033CEAA /* DBObject.m */,
 			);
 			path = DatabasesWithFMDB;
 			sourceTree = "<group>";
@@ -246,6 +256,8 @@
 				88F4CDC2174BE9B0004956CC /* Contact.m in Sources */,
 				88F4CE15174D42BE004956CC /* AddEditContactViewController.m in Sources */,
 				88A7613317513B1900E03F6D /* ContactDetailsViewController.m in Sources */,
+				AF8E78951756D6FB0033CEAA /* Address.m in Sources */,
+				AF8E78981756DFC20033CEAA /* DBObject.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

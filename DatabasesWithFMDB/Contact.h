@@ -8,15 +8,17 @@
 
 #import <Foundation/Foundation.h>
 #import "FMDatabase.h"
+#import "Address.h"
 
 @interface Contact : NSObject
 
-@property (nonatomic, retain) NSString *contactID;
-@property (nonatomic, retain) NSString *name;
-@property (nonatomic, retain) NSString *phone;
-@property (nonatomic, retain) NSString *email;
-@property (nonatomic, retain) NSDate *dateCreated;
-@property (nonatomic, retain) NSDate *lastUpdated;
+@property (strong, nonatomic) NSString *contactID;
+@property (strong, nonatomic) NSString *name;
+@property (strong, nonatomic) NSString *phone;
+@property (strong, nonatomic) NSString *email;
+@property (strong, nonatomic) NSDate *dateCreated;
+@property (strong, nonatomic) NSDate *lastUpdated;
+@property (strong, nonatomic) Address *address;
 
 + (NSString*)selectAllQuery;
 + (NSString*)selectByIDQuery:(NSString*)cID;
@@ -30,9 +32,5 @@
 - (NSArray*)fetchNextTwentyFive:(FMDatabase*)database;
 + (NSArray*)fetchAllContacts:(FMDatabase*)database;
 + (Contact*)fetchContactByID:(NSString*)cID dataBase:(FMDatabase*)database;
-
-- (BOOL)insert:(FMDatabase*)database;
-- (BOOL)update:(FMDatabase*)database;
-- (BOOL)delete:(FMDatabase*)database;
 
 @end
